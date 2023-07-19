@@ -6,7 +6,7 @@
 
 ## Built with 
 
-<img src="https://i.imgur.com/Ihrm7vq.png" width="100" height="70"> 
+<img src="https://i.imgur.com/Ihrm7vq.png" width="150" height="70"> 
 
-<img src="https://i.imgur.com/L0C7WWr.png" width="100" height="70"> <img src="https://i.imgur.com/JBW7n57.png" width="150" height="70">
-<img src="https://i.imgur.com/HeTJKaT.png" width="100" height="70">
+<img src="https://i.imgur.com/L0C7WWr.png" width="150" height="70"> <img src="https://i.imgur.com/JBW7n57.png" width="150" height="70">
+<img src="https://i.imgur.com/HeTJKaT.png" width="150" height="70">
