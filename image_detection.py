@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import os 
 import scipy.ndimage as sc
 
-cale = r'D:\~AN4\IM\Imagini_set'
+cale = r'\IM\Imagini_set'
 files = os.listdir( cale )
 
 #lista imagini selectate
